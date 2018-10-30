@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/akavel/rsrc/rsrc"
-	"github.com/asticode/go-astilectron"
+	"github.com/syntacticsugarglider/go-astilectron"
 	"github.com/asticode/go-astilog"
 	"github.com/asticode/go-astitools/archive"
 	"github.com/asticode/go-astitools/os"
